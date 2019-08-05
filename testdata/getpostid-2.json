@@ -1,0 +1,44 @@
+{
+    "id": 2,
+    "tags": "test tags",
+    "locked_tags": null,
+    "description": "This is a test case.",
+    "created_at": {
+        "json_class": "Time",
+        "s": 12345,
+        "n": 67890
+    },
+    "creator_id": 3,
+    "author": "OTY",
+    "change": 12345,
+    "source": "https://test.net/12345.png",
+    "score": 50,
+    "fav_count": 135,
+    "md5": "098f6bcd4621d373cade4e832627b4f6",
+    "file_size": 70000,
+    "file_url": "https://testfile.net/12345.png",
+    "file_ext": "png",
+    "preview_url": "https://testpreview.net/12345.png",
+    "preview_width": 150,
+    "preview_height": 100,
+    "sample_url": "https://testsample.net/12345.png",
+    "sample_width": 800,
+    "sample_height": 500,
+    "rating": "e",
+    "status": "active",
+    "width": 4500,
+    "height": 3000,
+    "has_comments": false,
+    "has_notes": false,
+    "has_children": true,
+    "children": "13578",
+    "parent_id": null,
+    "artist": [
+        "OTY"
+    ],
+    "sources": [
+        "https://sources1.net/source.png",
+        "https://sources2.net/source.png",
+        "https://sources3.net/source.png"
+    ]
+}
